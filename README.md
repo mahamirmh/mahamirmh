@@ -4,13 +4,17 @@
 
 <br/>
 
-### I build the systems behind ambitious ideas.
+<a href="https://github.com/mahamirmh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1100&color=174A3A&center=true&vCenter=true&width=850&height=65&lines=Hello%2C+I'm+Maha+%E2%80%94+builder+%26+founder.;Turning+complexity+into+clarity.;I+build+systems%2C+not+just+software.;Product+%C3%97+Engineering+%C3%97+AI.;Thoughtful+growth.+Real-world+impact." alt="Animated introduction: Maha, builder and founder" /></a>
 
-**From product strategy to architecture, AI, automation, and production.**
+### Curious mind. Architect's mindset. Builder's heart.
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-12304A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh?tab=repositories)
-[![Risheh](https://img.shields.io/badge/RISHEH-174A3A?style=for-the-badge&logoColor=white)](https://www.rishehcompany.ir)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B1F3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh)
+I turn complicated ideas into thoughtful products — and scattered business processes into systems that actually work.
+
+**Founder @ [Risheh](https://www.rishehcompany.ir)** · Software Architect · Product Engineer · AI Builder
+
+[![Explore work](https://img.shields.io/badge/EXPLORE_MY_WORK-12304A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh?tab=repositories)
+[![Risheh](https://img.shields.io/badge/BUILDING_RISHEH-174A3A?style=for-the-badge&logoColor=white)](https://www.rishehcompany.ir)
+[![Portfolio](https://img.shields.io/badge/INDUSTRY_PORTFOLIO-0B1F3B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile)
 
 <sub>Product thinking × Systems engineering × Intelligent automation</sub>
 
@@ -20,11 +24,11 @@
 
 ## 01 / The person behind the systems
 
-I'm **Maha**, a software engineer, product architect, and founder of **Risheh** — a digital engineering company building integrated systems for real businesses.
+I'm **Maha** — a software engineer, product architect, endlessly curious builder, and the founder of **Risheh**. I love creating order from complexity: connecting people, ideas, operations, and technology into products that feel simple on the outside and are thoughtfully engineered inside.
 
 My work lives where **product, engineering, data, and AI** meet. I enjoy taking a messy operational problem, finding its underlying structure, and designing something that teams can actually run, evolve, and trust.
 
-> **Build systems. Not just features.**
+> **I don't believe in random growth. I believe in intentional systems.**
 
 | What I care about | How I approach it |
 | :--- | :--- |
@@ -158,6 +162,14 @@ flowchart LR
 ```
 
 The best outcome isn't a clever demo. It's a system with a clear purpose, a path to production, and a team that can maintain it.
+
+## A little more human
+
+I care about the small details as much as the big picture: a clear product narrative, a graceful interaction, an understandable system, a workflow that gives people their time back.
+
+I enjoy researching new ideas, learning across disciplines, and exploring where **technology, product management, and healthcare** can meaningfully meet.
+
+I want the things I build to be **useful, elegant, responsible — and genuinely human-centered**.
 
 ## 06 / What I'm curious about next
 
