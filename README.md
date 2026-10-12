@@ -1,291 +1,185 @@
 <div align="center">
 
-# 👋 Hi, I'm Maha Mirmohammadi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:12304A,55:174A3A,100:256B58&text=MAHA%20MIRMOHAMMADI&fontColor=FFFFFF&fontSize=38&fontAlignY=39&desc=SOFTWARE%20ARCHITECT%20%E2%80%A2%20PRODUCT%20BUILDER%20%E2%80%A2%20FOUNDER&descSize=14&descAlignY=61&animation=fadeIn" width="100%" alt="Maha Mirmohammadi — Software Architect, Product Builder, Founder" />
 
-### Founder · Software Architect · Product Engineer · AI Builder
+<br/>
 
-**I don't just build software. I build systems that make businesses work better.**
+### I build the systems behind ambitious ideas.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mahamirmh-0B1F3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh)
-[![Risheh](https://img.shields.io/badge/Risheh-Digital-174A3A?style=for-the-badge)](https://github.com/mahamirmh?tab=repositories)
+**From product strategy to architecture, AI, automation, and production.**
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-12304A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh?tab=repositories)
+[![Risheh](https://img.shields.io/badge/RISHEH-174A3A?style=for-the-badge&logoColor=white)](https://www.rishehcompany.ir)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0B1F3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahamirmh)
+
+<sub>Product thinking × Systems engineering × Intelligent automation</sub>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 01 / The person behind the systems
 
-I'm **Maha**, a software engineer, product thinker, and founder building products at the intersection of **AI, automation, software architecture, and digital business systems**.
+I'm **Maha**, a software engineer, product architect, and founder of **Risheh** — a digital engineering company building integrated systems for real businesses.
 
-My focus is turning complex business problems into **scalable, intelligent, production-ready systems** — from product strategy and architecture to engineering, automation, deployment, and continuous improvement.
+My work lives where **product, engineering, data, and AI** meet. I enjoy taking a messy operational problem, finding its underlying structure, and designing something that teams can actually run, evolve, and trust.
 
-```text
-Idea
-  ↓
-Product Strategy
-  ↓
-System Architecture
-  ↓
-AI & Automation
-  ↓
-Engineering
-  ↓
-Production
-  ↓
-Continuous Optimization
-```
+> **Build systems. Not just features.**
 
----
+| What I care about | How I approach it |
+| :--- | :--- |
+| **Product clarity** | Understand the business problem before selecting the technology. |
+| **Clean architecture** | Design boundaries and contracts that remain maintainable as teams grow. |
+| **AI that works** | Put agents inside reliable workflows with permissions, observability, and human oversight. |
+| **Automation with purpose** | Replace repetitive operations without losing control or auditability. |
+| **Production quality** | Security, testing, usability, performance, and operational resilience are part of the product. |
 
-# 🌱 Risheh
+## 02 / Building at Risheh
 
-### Building intelligent digital systems for real businesses.
-
-I'm the founder and lead of **Risheh — فناوران دیجیتال ریشه**.
-
-Risheh focuses on building integrated digital systems that combine:
-
-**Software + AI + Automation + Data + Product Thinking**
-
-Instead of creating isolated websites or disconnected tools, the goal is to build **complete digital operating systems for businesses**.
-
-### What Risheh works on
-
-- 🤖 AI Agents & Agentic Systems
-- ⚙️ Business Automation
-- 🧩 Software Architecture
-- 📊 Product & Growth Systems
-- 🛒 E-commerce Infrastructure
-- 🔗 API & System Integrations
-- 📱 Telegram / WhatsApp Bots
-- 🧠 AI-powered Business Tools
-- 📈 CRM & Operational Platforms
-- ☁️ Cloud & Infrastructure
-- 🎨 Product UX / UI
-
----
-
-# 🚀 What I'm Building
-
-My GitHub is a laboratory for turning ideas into real products.
-
-### 🤖 AI & Agent Systems
-
-- AI Engineering Agents
-- AI-powered business assistants
-- Agentic workflows
-- AI automation infrastructure
-- LLM developer tooling
-- AI-first product architectures
-
-### ⚙️ Business Automation
-
-- n8n workflow systems
-- Telegram automation
-- WooCommerce integrations
-- CRM automation
-- operational workflows
-- automated reporting
-- business process orchestration
-
-### 🏗️ Engineering Systems
-
-- Engineering Control Plane
-- Project Delivery systems
-- Developer tooling
-- Infrastructure automation
-- Production monitoring
-- reusable architecture patterns
-
-### 💼 Product Systems
-
-- Trade & commerce platforms
-- Digital goods platforms
-- Payment/accounting systems
-- CRM platforms
-- Prototype generation systems
-- Admin & operational dashboards
-
----
-
-# 🧰 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-0B1F3B?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1F3B?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1F3B?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0B1F3B?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-174A3A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-174A3A?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-174A3A?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-174A3A?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-12304A?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-12304A?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-12304A?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### AI / Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-0B1F3B?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0B1F3B?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0B1F3B?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 🧭 Engineering Philosophy
-
-I care about more than making something **work**.
-
-| Principle | What it means |
-|---|---|
-| 🏗️ Architecture | Systems should remain understandable as they grow. |
-| 📈 Scalability | Today's prototype should have a path toward tomorrow's production system. |
-| ⚙️ Automation | Repetitive predictable work should become software whenever possible. |
-| 🤖 AI-native | AI should be part of the system, not merely a chatbot beside it. |
-| 🎯 Product thinking | Good engineering solves the right problem. |
-| ✨ UX | Complex systems should feel simple to their users. |
-| 🔐 Security | Production systems must be designed with trust and resilience in mind. |
-
----
-
-# 🔬 From Prototype → Production
-
-One of the things I enjoy most is taking an idea through the entire lifecycle:
+**Risheh** is focused on connected digital business systems — not isolated websites, dashboards, or bots.
 
 ```text
-01  Product Brief
-        ↓
-02  User Flow
-        ↓
-03  Architecture
-        ↓
-04  Design System
-        ↓
-05  Golden Screens
-        ↓
-06  Prototype
-        ↓
-07  Engineering
-        ↓
-08  Automation
-        ↓
-09  Testing
-        ↓
-10  Production
-        ↓
-11  Observability
-        ↓
-12  Continuous Improvement
+Business challenge
+      ↓
+Discovery & product strategy
+      ↓
+UX / system architecture
+      ↓
+Software + data + integrations
+      ↓
+AI agents & automation
+      ↓
+Deployment, measurement & evolution
 ```
 
-> **The goal isn't to create beautiful prototypes.**
->
-> **The goal is to create systems that survive contact with reality.**
+**The fields we work across**
 
----
+`AI & Agentic Systems` · `Business Automation` · `Product Engineering` · `CRM & Operations` · `E-commerce` · `Data Platforms` · `Developer Experience`
 
-# 📂 Selected Work
+## 03 / Selected engineering work
 
-Some of the systems and experiments across my GitHub include:
+A selection of repositories, grouped by the problems they address — rather than a wall of technology logos.
 
-| Project | Area |
-|---|---|
-| [`risheh-engineering-control-plane`](https://github.com/mahamirmh/risheh-engineering-control-plane) | Engineering Operations |
-| [`risheh-engineering-agent`](https://github.com/mahamirmh/risheh-engineering-agent) | AI Engineering |
-| [`risheh-prototype-machine`](https://github.com/mahamirmh/risheh-prototype-machine) | AI / Product Prototyping |
-| [`RishehFirstAcction`](https://github.com/mahamirmh/RishehFirstAcction) | Telegram / Product Automation |
-| [`woocommerce-telegram-bot`](https://github.com/mahamirmh/woocommerce-telegram-bot) | E-commerce Automation |
-| [`Risheh-website-dashboard-advanced`](https://github.com/mahamirmh/Risheh-website-dashboard-advanced) | Digital Product Platform |
-| [`Risheh-ot-plattform`](https://github.com/mahamirmh/Risheh-ot-plattform) | Operations / Platform |
-| [`Rishehaccountpay`](https://github.com/mahamirmh/Rishehaccountpay) | Payments / Accounting |
-| [`CRM-RISHEH`](https://github.com/mahamirmh/CRM-RISHEH) | CRM / Business Operations |
-| [`N8N-WORKFLOW`](https://github.com/mahamirmh/N8N-WORKFLOW) | Automation |
-| [`risheh-claude-skills`](https://github.com/mahamirmh/risheh-claude-skills) | AI Developer Tooling |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Many of these repositories are evolving continuously. The interesting part isn't only what exists today — it's where these systems are going.
+### 🧠 AI & engineering intelligence
 
----
+**[Engineering Control Plane](https://github.com/mahamirmh/risheh-engineering-control-plane)**  
+Engineering orchestration and governance.
 
-# 💡 How I Think About Products
+**[Engineering Agent](https://github.com/mahamirmh/risheh-engineering-agent)**  
+Agent-assisted development workflows.
 
-```text
-A website is not a business system.
+**[AI Developer Skills](https://github.com/mahamirmh/risheh-claude-skills)**  
+Reusable engineering knowledge and tooling.
 
-A chatbot is not an AI strategy.
+</td>
+<td width="50%" valign="top">
 
-Automation is not just connecting APIs.
+### ⚙️ Automation & operations
 
-A dashboard is not an operating system.
+**[N8N Workflows](https://github.com/mahamirmh/N8N-WORKFLOW)**  
+Business process automation experiments.
 
-And AI is not merely a text box.
+**[WooCommerce Telegram Bot](https://github.com/mahamirmh/woocommerce-telegram-bot)**  
+Commerce-to-messaging integration.
 
-The real product is the system behind them.
+**[Risheh CRM](https://github.com/mahamirmh/CRM-RISHEH)**  
+Customer and operational workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Prototyping & product systems
+
+**[Prototype Factory Skill](https://github.com/mahamirmh/Risheh-Prototype-Factory-Skill)**  
+A repeatable path from briefs to prototypes.
+
+**[Rapid Prototype Standard](https://github.com/mahamirmh/Risheh-Rapid-Prototype-Standard-RRPS)**  
+Standards for consistent product exploration.
+
+**[Growth Intelligence](https://github.com/mahamirmh/Risheh-Growth-Intelligence)**  
+Product-led growth research and workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Platforms & industry solutions
+
+**[Risheh Core](https://github.com/mahamirmh/Risheh-Core)**  
+Internal workspace and engineering operations.
+
+**[Entekhab Platform](https://github.com/mahamirmh/Entekhab-Platform)**  
+Content and service platform architecture.
+
+**[Industry Solutions Profile](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile)**  
+Industry-focused presentation of digital solutions.
+
+</td>
+</tr>
+</table>
+
+<sub>These links showcase engineering directions and repository work; they do not imply that every project is publicly deployed or production-ready.</sub>
+
+<div align="center">
+
+**[→ Explore all repositories](https://github.com/mahamirmh?tab=repositories)**
+
+</div>
+
+## 04 / The toolkit
+
+**Languages & foundations**  
+![Python](https://img.shields.io/badge/Python-12304A?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-12304A?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-12304A?style=flat-square&logo=postgresql&logoColor=white)
+
+**Product & application engineering**  
+![FastAPI](https://img.shields.io/badge/FastAPI-174A3A?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-174A3A?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-174A3A?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-174A3A?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI, orchestration & delivery**  
+![n8n](https://img.shields.io/badge/n8n-12304A?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-12304A?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-12304A?style=flat-square&logo=githubactions&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-12304A?style=flat-square)
+
+<sub>Tools are implementation choices, not the definition of the product.</sub>
+
+## 05 / How I take an idea to production
+
+```mermaid
+flowchart LR
+    A["Discover"] --> B["Design"]
+    B --> C["Architect"]
+    C --> D["Build"]
+    D --> E["Verify"]
+    E --> F["Ship"]
+    F --> G["Learn"]
+    G -.-> A
 ```
 
-That's where I like to work.
+The best outcome isn't a clever demo. It's a system with a clear purpose, a path to production, and a team that can maintain it.
 
----
+## 06 / What I'm curious about next
 
-# 🧪 Current Exploration
-
-I'm particularly interested in the future of:
-
-- 🧠 Agentic Software Engineering
-- 🤖 AI-native SaaS
-- 🏢 Business Operating Systems
-- ⚡ Autonomous Workflows
-- 🧬 AI + HealthTech
-- 📇 Intelligent CRM
-- 🛍️ AI-powered Commerce
-- 📊 Large-scale Data Systems
-- 🤝 Human + AI Collaboration
-- 🛠️ Product Engineering
-
----
-
-# 🌍 Beyond Code
-
-I'm interested in the space where:
-
-**Technology × Business × AI × Research × Product**
-
-meet each other.
-
-My long-term direction is to build systems that don't simply digitize existing processes, but **rethink how those processes should work in the first place.**
-
----
-
-# 🤝 Let's Build Something Real
-
-I'm especially interested in ambitious problems involving:
-
-`AI Agents` · `Business Automation` · `SaaS` · `Product Engineering` · `Digital Transformation` · `E-commerce` · `HealthTech` · `Data Systems` · `Developer Tools` · `Intelligent Infrastructure`
-
-If you're building something difficult, that's usually where the interesting conversations begin.
+- **Agentic software engineering** — agents that operate within real engineering constraints.
+- **Product & platform intelligence** — using data to improve decisions and execution.
+- **HealthTech + AI** — meaningful, carefully designed applications at the intersection of technology and healthcare.
+- **Developer tools** — making complex work more legible and repeatable.
 
 ---
 
 <div align="center">
 
-### ✦ Build systems. Not just features.
+### Have a complex problem worth building for?
 
-**Maha Mirmohammadi**  
-Founder @ **Risheh** · Software Engineer · Product Builder · AI Systems
+I’m always interested in thoughtful conversations about architecture, products, intelligent systems, and long-term technical partnerships.
+
+**[GitHub](https://github.com/mahamirmh)** · **[Risheh](https://www.rishehcompany.ir)** · **[Explore the portfolio](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile)**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mahamirmh&style=flat-square&color=12304A" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=105&color=0:12304A,100:174A3A" width="100%" alt="" />
+
+<sub>Designed with intention · Built for evolution</sub>
 
 </div>
