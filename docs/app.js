@@ -11,3 +11,36 @@ function render(filter="all"){const list=projects.filter(p=>filter==="all"||p.ty
 filters.forEach(btn=>btn.addEventListener("click",()=>{filters.forEach(b=>{b.classList.remove("active");b.setAttribute("aria-pressed","false")});btn.classList.add("active");btn.setAttribute("aria-pressed","true");render(btn.dataset.filter)}));render();
 const menu=document.getElementById("menu"),nav=document.getElementById("nav");menu.addEventListener("click",()=>{const open=nav.classList.toggle("open");menu.setAttribute("aria-expanded",String(open));menu.innerHTML=open?'Close <span aria-hidden="true">×</span>':'Menu <span aria-hidden="true">↗</span>'});nav.querySelectorAll("a").forEach(a=>a.addEventListener("click",()=>{nav.classList.remove("open");menu.setAttribute("aria-expanded","false");menu.textContent="Menu ↗"}));
 const phrases=["Software architecture with a product mindset.","Turning complexity into clarity.","Engineering practical AI workflows.","Building systems, not scattered features."];const target=document.getElementById("typewriter");if(!matchMedia("(prefers-reduced-motion: reduce)").matches){let line=0,pos=0,erase=false;function type(){const value=phrases[line];target.textContent=value.slice(0,pos);if(!erase&&pos<value.length){pos++;setTimeout(type,56)}else if(!erase){erase=true;setTimeout(type,1750)}else if(pos>0){pos--;setTimeout(type,24)}else{erase=false;line=(line+1)%phrases.length;setTimeout(type,350)}}type()}document.getElementById("year").textContent=new Date().getFullYear();const progress=document.getElementById("progress");window.addEventListener("scroll",()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?scrollY/max*100:0)+"%"},{passive:true});
+
+/* V4 project spotlight — local curated source, no speculative images */
+const featured=projects.filter(p=>p.url&&p.url.startsWith("case-studies/"));
+let activeFeatured=0;
+const spotlightTitle=document.getElementById("spotlight-title");
+const spotlightDescription=document.getElementById("spotlight-description");
+const spotlightLink=document.getElementById("spotlight-link");
+const spotlightIndex=document.getElementById("spotlight-index");
+const spotlightType=document.getElementById("spotlight-type");
+const spotlightArt=document.getElementById("spotlight-art");
+function setFeatured(index){
+ if(!featured.length)return;
+ activeFeatured=(index+featured.length)%featured.length;
+ const project=featured[activeFeatured];
+ spotlightTitle.textContent=project.title;
+ spotlightDescription.textContent=project.desc;
+ spotlightLink.href=project.url;
+ spotlightIndex.textContent=String(activeFeatured+1).padStart(2,"0");
+ spotlightType.textContent=project.label.split("·")[0].trim().toUpperCase();
+ spotlightArt.classList.remove("is-changing");
+ void spotlightArt.offsetWidth;
+ if(!window.matchMedia("(prefers-reduced-motion: reduce)").matches)spotlightArt.classList.add("is-changing");
+}
+document.getElementById("spotlight-prev")?.addEventListener("click",()=>setFeatured(activeFeatured-1));
+document.getElementById("spotlight-next")?.addEventListener("click",()=>setFeatured(activeFeatured+1));
+setFeatured(0);
+const sections=document.querySelectorAll(".section-heading,.about-grid,.principles,.capabilities>div,.timeline article,.contact-section h2");
+if("IntersectionObserver" in window&&!window.matchMedia("(prefers-reduced-motion: reduce)").matches){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
+  if(entry.isIntersecting){entry.target.classList.add("revealed");observer.unobserve(entry.target)}
+ }),{threshold:.08,rootMargin:"0px 0px -25px 0px"});
+ sections.forEach(el=>{el.setAttribute("data-reveal","");observer.observe(el)});
+}else{sections.forEach(el=>{el.setAttribute("data-reveal","");el.classList.add("revealed")})}
