@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+  <title id="title">Maha Mirmohammadi — founder, engineer and product builder</title>
+  <desc id="desc">An editorial navy and forest-green banner featuring the name Maha Mirmohammadi and an abstract connected-systems illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2031"/>
+      <stop offset="0.55" stop-color="#12304A"/>
+      <stop offset="1" stop-color="#174A3A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#91C6B2" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#91C6B2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M35 0H0V35" fill="none" stroke="#DCECE6" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="440" fill="url(#bg)"/>
+  <rect width="1400" height="440" fill="url(#grid)"/>
+  <circle cx="1155" cy="218" r="320" fill="url(#glow)"/>
+  <path d="M0 416H1400" stroke="#B5DAC9" stroke-opacity=".25"/>
+  <rect x="64" y="61" width="9" height="9" rx="2" fill="#8DD3B2"/>
+  <text x="91" y="70" fill="#A9DDCA" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3">FOUNDER  /  ENGINEER  /  BUILDER</text>
+  <text x="64" y="182" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-3">MAHA</text>
+  <text x="64" y="269" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">MIRMOHAMMADI</text>
+  <rect x="64" y="298" width="78" height="4" rx="2" fill="#8DD3B2"/>
+  <text x="64" y="350" fill="#DBEAE5" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1.1">SOFTWARE ARCHITECT  ·  PRODUCT STRATEGY  ·  AI SYSTEMS</text>
+  <text x="64" y="405" fill="#99C9B8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.3">RISHEH DIGITAL  /  BUILDING SYSTEMS WITH PURPOSE</text>
+  <g fill="none" stroke="#B5DBCC" stroke-width="1.5" opacity=".75">
+    <circle cx="1160" cy="215" r="91"/>
+    <circle cx="1160" cy="215" r="138" stroke-opacity=".45"/>
+    <circle cx="1160" cy="215" r="51" stroke-opacity=".75"/>
+    <path d="M1084 163L1160 215 1233 160M1160 215L1206 291 1084 268 1084 163M1233 160L1287 231 1206 291M1084 268L1018 222 1084 163M1206 291L1241 338"/>
+    <path d="M1160 77V124M1160 306V353M1022 215H1069M1251 215H1297" stroke-dasharray="5 8" stroke-opacity=".45"/>
+  </g>
+  <g fill="#0C2D36" stroke="#8DD3B2" stroke-width="3">
+    <circle cx="1160" cy="215" r="12" fill="#8DD3B2"/>
+    <circle cx="1084" cy="163" r="8"/><circle cx="1233" cy="160" r="8"/>
+    <circle cx="1206" cy="291" r="8"/><circle cx="1084" cy="268" r="8"/>
+    <circle cx="1287" cy="231" r="6"/><circle cx="1018" cy="222" r="6"/><circle cx="1241" cy="338" r="6"/>
+  </g>
+  <path d="M1334 64H1361V91M993 64H966V91M993 376H966V349M1334 376H1361V349" fill="none" stroke="#B5DBCC" stroke-opacity=".35" stroke-width="2"/>
+</svg>
