@@ -83,7 +83,7 @@ flowchart LR
     C --> D["Build"]
     D --> E["Verify"]
     E --> F["Improve"]
-    F -. "Feedback" .-> A
+    F -.-> A
 ```
 
 **Clarity before complexity. Evidence before confidence. Maintainability before hype.**
